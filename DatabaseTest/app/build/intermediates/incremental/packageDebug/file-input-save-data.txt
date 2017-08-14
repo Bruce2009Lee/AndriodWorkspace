@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Sun Aug 13 17:39:28 CST 2017
+2.base=E\:\\WorkSpace\\AndriodWorkSpace\\DatabaseTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\WorkSpace\\AndriodWorkSpace\\DatabaseTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=E\:\\WorkSpace\\AndriodWorkSpace\\DatabaseTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=E\:\\WorkSpace\\AndriodWorkSpace\\DatabaseTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=E\:\\WorkSpace\\AndriodWorkSpace\\DatabaseTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.base=E\:\\WorkSpace\\AndriodWorkSpace\\DatabaseTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=E\:\\WorkSpace\\AndriodWorkSpace\\DatabaseTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=E\:\\WorkSpace\\AndriodWorkSpace\\DatabaseTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.base=E\:\\WorkSpace\\AndriodWorkSpace\\DatabaseTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+3.file=E\:\\WorkSpace\\AndriodWorkSpace\\DatabaseTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\WorkSpace\\AndriodWorkSpace\\DatabaseTest\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\WorkSpace\\AndriodWorkSpace\\DatabaseTest\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+0.set=DEX
